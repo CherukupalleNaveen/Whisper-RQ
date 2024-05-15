@@ -1,7 +1,7 @@
 ## Steps to run
 - Clone the repository
 - Navigate inside the repository
-- Create an "uploads" directory
+- Create an "uploads" directory and change the absolute path in testapi.py & transcribe.py
 - Create Python Virtual Environment and activate it
 - Install dependencies using
 	```
