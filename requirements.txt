@@ -1,0 +1,13 @@
+anyio
+async-timeout
+click
+fastapi
+h11
+idna
+pydantic
+redis
+rq
+sniffio
+starlette
+typing_extensions
+uvicorn
